@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.resultado{
+    width: 90%;
+    height: 43px;
+    font-size: 30px;
+    color: aliceblue;
+    margin: 5%;
+    padding: 17px;
+}
+
+.nota{
+    border: 1px solid rgb(66, 66, 66);
+    width: 90%;
+    height: 43px;
+    margin: 5%;
+    font-size: 30px;
+    padding: 17px;
+    color: black;
+}
